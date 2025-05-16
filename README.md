@@ -28,6 +28,22 @@ Este proyecto tiene como objetivo analizar el desempeño de cuatro tiendas virtu
 
 - Informe final estructurado con la recomendación
 
+## Instrucciones para abrir el archivo
+
+1. Asegúrate de tener una cuenta de Google.
+
+2. Accede a Google Colab.
+
+3. Haz clic en Archivo > Subir notebook y selecciona el archivo AluraStoreLatam.ipynb (debes descargarlo previamente).
+
+4. Una vez cargado, asegúrate de ejecutar las celdas en orden:
+
+5. Menú superior: Entorno de ejecución > Ejecutar todo
+
+6. Espera a que se carguen los datos desde las URLs definidas dentro del notebook (requiere conexión a Internet).
+
+No necesitas instalar nada en tu computadora. Google Colab corre en la nube.
+
 ## Conclusión
 Tras comparar todas las métricas, se recomienda que el Sr. Juan venda la Tienda 4, ya que:
 
